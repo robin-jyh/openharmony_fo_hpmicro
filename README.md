@@ -1,1 +1,2 @@
 # openharmony_for_HPMicro
+先楫半导体MCU开发鸿蒙时的一些笔记和测试代码。
